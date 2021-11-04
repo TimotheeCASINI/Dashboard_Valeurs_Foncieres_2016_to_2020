@@ -183,7 +183,9 @@ Selectionner le nouveau kernel vendtv
 <sub> Notez que dans cette méthode, vous n'avez pas besoin de créer l'environnement virtuel en prérequis, il sera créé automatiquement. Il vous suffit d'avoir un jupyter notebook configuré ou un éditeur de code qui prend en charge les notebooks (VSCode) afin de lancer le premier notebook. une fois fait, le deuxième notebook n'a plus qu'a être lancé avec l'environnement virtuel créer automatiquement. L'application se lancera d'elle même !</sub>
 
 <sub> Si vousvoulez utliliser les notebooks sur VSCode, voir [ici](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)</sub>
+
 <sub> Plus d'infos pour l'utilisation de jupyter et des environnement virtuels [ici](https://janakiev.com/blog/jupyter-virtual-envs/)</sub>
+
 <sub> Pour ceux qui utilise Google Collab, il suffit de démarer le Projet.ipynb uniquement, pas besoin de tout le reste !</sub>
 <br> 
 
