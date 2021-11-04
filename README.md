@@ -57,6 +57,7 @@ Plusieurs contraintes sont indiqué pour la réalisation du projet, tout celà e
 
 3. Utiliser l'un des deux packages python EDA automatisés dans un notebook distinct afin d'explorer rapidement les fichiers
 
+<br>
 
 Votre application streamlit doit respecter les exigences suivantes :
 
@@ -79,4 +80,20 @@ Votre application streamlit doit respecter les exigences suivantes :
 - Facultatif : Intégrez tous les fichiers ensemble afin d'avoir une perspective sur plusieurs années
 
 - Facultatif : Imaginez des formulaires - textes, dates ou chiffres - pour récupérer les saisies de vos utilisateurs et leur restituer des analyses et des visualisations correspondant à leurs critères de recherche et de choix
+
+
+### Prérequis
+
+Afin de mener à bien ce projet, vous aurez besoin de quelques outils intallé préalablement sur votre machine.
+
+Vous aurez besoin des outils suivants :
+- IDE Python
+- Environnement virtuel Python
+- Un kernel Jupyter Notebook
+- Un gestionnaire de package Python
+
+* Installation de python
+
+Pour verifier l'installation de python : `python --version`
+Si python n'est pas reconnue, veuillez suivre les instruction [ici (Window)](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013) ou [ici (MacOS)](https://docs.python.org/fr/3/using/mac.html)
 
