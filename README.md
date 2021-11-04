@@ -5,7 +5,7 @@
 ### Introduction
 
 Ce projet se décompose en 4 dossiers :
-* `infos`: Contient toute les informations utiles, consignes, résultats du projet
+* `infos`: Contient toute les informations utiles
 * `src`: Contient le fichier source de l'application et le fichier texte d'hortodatage
 * `img`: Contient les screenshots utiles du projet
 * `data`: Contient les données des valeurs foncières sous format *csv*
@@ -13,7 +13,7 @@ Ce projet se décompose en 4 dossiers :
 Vous y trouverez également 2 notebooks :
 * `init.ipynb`: Installation automatique de l'environnement virtuel
 * `Projet.ipynb`: Éxecution automatique de l'application
-* 
+
 Le développement de l'application est détailé dans le notebook python afin de coder 'step by step' l'application de A à Z !
 
 Tout au long du développement, nous utiliserons les différentes notions et techniques vus en cours (décorateur, processus d'exploration, modularité du code, ...) afin d'avoir un code partagable, le plus performant possible et répondant aux éxigences du projet.
