@@ -85,6 +85,10 @@ Votre application streamlit doit respecter les exigences suivantes :
 ### Prérequis
 
 Afin de mener à bien ce projet, vous aurez besoin de quelques outils intallé préalablement sur votre machine.
+Commncer par ouvrir un terminal dans le répertoir du projet, vous devriez obtenir quelque chose du genre:
+```
+(venvdtv) user@user_host_name Projet % 
+```
 
 Vous aurez besoin des outils suivants :
 - IDE Python
@@ -92,9 +96,14 @@ Vous aurez besoin des outils suivants :
 - Un kernel Jupyter Notebook
 - Un gestionnaire de package Python
 
+
 * Installation de python
 
 Pour verifier l'installation de python : `python --version`
 
 <sub>Si python n'est pas reconnue, veuillez suivre les instruction [ici (Window)](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013) ou [ici (MacOS)](https://docs.python.org/fr/3/using/mac.html)</sub>
+
+* Création de l'environnement virtuel
+
+Un fois python installé, créer un environnement virtuel en tappant la commande suivante dans le terminal : `python3 -m venv ./venvdtv`
 
