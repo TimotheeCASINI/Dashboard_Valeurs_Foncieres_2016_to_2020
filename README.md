@@ -183,9 +183,9 @@ Lancer le deuxième ipynb
 <sub> Si vousvoulez utliliser les notebooks sur VSCode, voir [ici](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)</sub>
 <sub> Plus d'infos pour l'utilisation de jupyter et des environnement virtuels [ici](https://janakiev.com/blog/jupyter-virtual-envs/)</sub>
 
+<br> 
 
 **Et voila ! Tout est enfin configurer pour débuter notre application**
 
-<br> 
 
 Copyright © 2021 - Timothée CASINI
