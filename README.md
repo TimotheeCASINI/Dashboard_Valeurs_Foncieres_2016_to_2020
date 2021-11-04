@@ -136,6 +136,7 @@ Maintenant que l'environnement virtuel est activé, vous allez installer le kern
 * Installation des packages
 
 Il ne reste plus qu'a télécharger les bibliothèques nécessaire au bon développement de l'application.
+
 Encore une fois, si vous utilisez un autre package que pip, le set-up risque d'être légèrement différent et je vous conseil de vérifier vos commandes sur internet avant d'installer les packages.
 
 ```
@@ -151,7 +152,7 @@ Encore une fois, si vous utilisez un autre package que pip, le set-up risque d'�
 
 Pour exécuter le code, vous avez 3 options qui s'offre à vous.
 
-1. La première est d'ouvrir le terminal une fois l'environnement virtuel créé et les packages installés puis lancer simplement le fichier `.py`:
+1. La première est d'ouvrir le terminal une fois l'environnement virtuel créé et les packages installés puis lancer simplement le fichier `projet_app.py`:
 ```
 (vendtv) user@user_host_name Projet % streamlit run ./src/projet_app.py
 ```
@@ -187,7 +188,7 @@ Selectionner le nouveau kernel vendtv
 <br> 
 
 
-**Et voila ! Tout est enfin configurer pour débuter notre application**
+**Et voila ! Tout est enfin configurer pour lancer notre application**
 
 
 Copyright © 2021 - Timothée CASINI
