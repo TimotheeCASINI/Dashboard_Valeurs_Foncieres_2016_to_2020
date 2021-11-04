@@ -184,7 +184,7 @@ Selectionner le nouveau kernel vendtv
 
 <sub> Si vousvoulez utliliser les notebooks sur VSCode, voir [ici](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)</sub>
 <sub> Plus d'infos pour l'utilisation de jupyter et des environnement virtuels [ici](https://janakiev.com/blog/jupyter-virtual-envs/)</sub>
-
+<sub> Pour ceux qui utilise Google Collab, il suffit de démarer le Projet.ipynb uniquement, pas besoin de tout le reste !</sub>
 <br> 
 
 
