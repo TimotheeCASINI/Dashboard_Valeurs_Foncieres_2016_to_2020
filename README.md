@@ -85,10 +85,8 @@ Votre application streamlit doit respecter les exigences suivantes :
 ### Prérequis
 
 Afin de mener à bien ce projet, vous aurez besoin de quelques outils intallé préalablement sur votre machine.
-Commncer par ouvrir un terminal dans le répertoir du projet, vous devriez obtenir quelque chose du genre:
-```
-(venvdtv) user@user_host_name Projet % 
-```
+Commncer par ouvrir un terminal dans le répertoir du projet, vous devriez obtenir quelque chose du genre: `user@user_host_name Projet % `
+
 
 Vous aurez besoin des outils suivants :
 - IDE Python
@@ -99,11 +97,34 @@ Vous aurez besoin des outils suivants :
 
 * Installation de python
 
-Pour verifier l'installation de python : `python --version`
+Pour verifier l'installation de python : 
+```
+python --version
+```
 
 <sub>Si python n'est pas reconnue, veuillez suivre les instruction [ici (Window)](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013) ou [ici (MacOS)](https://docs.python.org/fr/3/using/mac.html)</sub>
 
-* Création de l'environnement virtuel
+* Préparation de l'environnement virtuel
 
-Un fois python installé, créer un environnement virtuel en tappant la commande suivante dans le terminal : `python3 -m venv ./venvdtv`
+Un fois python installé, créer un environnement virtuel puis activé le en tappant les commandes suivantes dans le terminal : 
+```
+user@user_host_name Projet % python3 -m venv ./venvdtv
+user@user_host_name Projet % source vendtv/bin/activate
+(vendtv) user@user_host_name Projet % 
+```
 
+* Installation du kernel Jupyter
+
+Maintenant que l'environnement virtuel est activé, vous allez installer le kernel afin de pouvoir démarer le projet depuis un noyeau jupyter local et manipuler le notebook. Vous pouvez également coder dans VSCode au lieu de jupyter si vous le souhaitez, pour ce faire, il suffit de selectionner l'environnement virtuel créer précédemment et de tapper la commande suivante :
+
+- Jupyter 
+```
+(vendtv) user@user_host_name Projet % pip install jupyter
+(vendtv) user@user_host_name Projet % jupyter notebook
+```
+- VSCode
+```
+(vendtv) user@user_host_name Projet % pip install -U ipykernel
+```
+
+<sub>Vous pouvez utiliser un autre package que pip en fonction de votre installation initialle (brew, conda, mamba, ...). Je vous invite a regarder sur [internet](https://jupyter.org/install) si vous rencontrez un problème ou que vous utilisez un autre package.</sub>
