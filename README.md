@@ -10,6 +10,10 @@ Ce projet se décompose en 4 dossiers :
 * `img`: Contient les screenshots utiles du projet
 * `data`: Contient les données des valeurs foncières sous format *csv*
 
+Vous y trouverez également 2 notebooks :
+* `init.ipynb`: Installation automatique de l'environnement virtuel
+* `Projet.ipynb`: Éxecution automatique de l'application
+* 
 Le développement de l'application est détailé dans le notebook python afin de coder 'step by step' l'application de A à Z !
 
 Tout au long du développement, nous utiliserons les différentes notions et techniques vus en cours (décorateur, processus d'exploration, modularité du code, ...) afin d'avoir un code partagable, le plus performant possible et répondant aux éxigences du projet.
@@ -99,7 +103,7 @@ Vous aurez besoin des outils suivants :
 
 Pour verifier l'installation de python : 
 ```
-python --version
+(vendtv) user@user_host_name Projet % python --version
 ```
 
 <sub>Si python n'est pas reconnue, veuillez suivre les instruction [ici (Window)](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013) ou [ici (MacOS)](https://docs.python.org/fr/3/using/mac.html)</sub>
@@ -128,3 +132,55 @@ Maintenant que l'environnement virtuel est activé, vous allez installer le kern
 ```
 
 <sub>Vous pouvez utiliser un autre package que pip en fonction de votre installation initialle (brew, conda, mamba, ...). Je vous invite a regarder sur [internet](https://jupyter.org/install) si vous rencontrez un problème ou que vous utilisez un autre package.</sub>
+
+* Installation des packages
+
+Il ne reste plus qu'a télécharger les bibliothèques nécessaire au bon développement de l'application.
+Encore une fois, si vous utilisez un autre package que pip, le set-up risque d'être légèrement différent et je vous conseil de vérifier vos commandes sur internet avant d'installer les packages.
+
+```
+(vendtv) user@user_host_name Projet % pip install streamlit
+(vendtv) user@user_host_name Projet % pip install numpy
+(vendtv) user@user_host_name Projet % pip install pandas
+(vendtv) user@user_host_name Projet % pip install matplotlib
+(vendtv) user@user_host_name Projet % pip install altair
+(vendtv) user@user_host_name Projet % pip install seabron
+(vendtv) user@user_host_name Projet % pip install pydeck
+```
+### Exécution
+
+Pour exécuter le code, vous avez 3 options qui s'offre à vous.
+
+1. La première est d'ouvrir le terminal une fois l'environnement virtuel créé et les packages installés puis lancer simplement le fichier `.py`:
+```
+(vendtv) user@user_host_name Projet % streamlit run ./src/projet_app.py
+```
+
+2. La deuxième est de passer par le jupyter notebook depuis un terminal (virtuel) et en ouvrant une page jupyter. Vous lancerez le notebook qui executera automatiquement le code au sein de l'application et la lancera pour vous.
+```
+(vendtv) user@user_host_name Projet % jupyter notebook
+```
+3. La troisième façon de faire est de lancer le notebook `init.ipynb` depuis VSCode (ou jupyter notebook) sans environnement virtuel créer. Exécuter le notebook qui va automatiquement créer et configuer l'environnement virtuel pour vous. Ensuite, lancer le fichier `Projet.ipynb` (séléctionner vendtv si VSCode | activer et lancer jupter depuis le vendtv créé).
+
+- Jupyter :
+```
+user@user_host_name Projet % jupyter notebook
+... démarer init.ipynb ...
+
+user@user_host_name Projet % source vendtv/bin/activate
+(vendtv) user@user_host_name Projet % jupyter notebook
+... démarer projet.ipynb ...
+```
+
+- VSCode
+```
+Lancer le premier ipynb
+Selectionner le nouveau kernel vendtv
+Lancer le deuxième ipynb
+```
+<sub> Notez que dans cette méthode, vous n'avez pas besoin de créer l'environnement virtuel en prérequis, il sera créé automatiquement. Il vous suffit d'avoir un jupyter notebook configuré ou un éditeur de code qui prend en charge les notebooks (VSCode) afin de lancer le premier notebook. une fois fait, le deuxième notebook n'a plus qu'a être lancé avec l'environnement virtuel créer automatiquement. L'application se lancera d'elle même !</sub>
+
+<sub> Si vousvoulez utliliser les notebooks sur VSCode, voir [ici](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)</sub>
+<sub> Plus d'infos pour l'utilisation de jupyter et des environnement virtuels [ici](https://janakiev.com/blog/jupyter-virtual-envs/) <sub>
+**Et voila ! Tout est enfin configurer pour débuter notre application**
+
