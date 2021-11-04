@@ -159,6 +159,7 @@ Pour exécuter le code, vous avez 3 options qui s'offre à vous.
 2. La deuxième est de passer par le jupyter notebook depuis un terminal (virtuel) et en ouvrant une page jupyter. Vous lancerez le notebook qui executera automatiquement le code au sein de l'application et la lancera pour vous.
 ```
 (vendtv) user@user_host_name Projet % jupyter notebook
+... démarer le projet.ipynb ...
 ```
 3. La troisième façon de faire est de lancer le notebook `init.ipynb` depuis VSCode (ou jupyter notebook) sans environnement virtuel créer. Exécuter le notebook qui va automatiquement créer et configuer l'environnement virtuel pour vous. Ensuite, lancer le fichier `Projet.ipynb` (séléctionner vendtv si VSCode | activer et lancer jupter depuis le vendtv créé).
 
@@ -174,9 +175,9 @@ user@user_host_name Projet % source vendtv/bin/activate
 
 - VSCode
 ```
-Lancer le premier ipynb
+... démarer init.ipynb ...
 Selectionner le nouveau kernel vendtv
-Lancer le deuxième ipynb
+... démarer projet.ipynb ...
 ```
 <sub> Notez que dans cette méthode, vous n'avez pas besoin de créer l'environnement virtuel en prérequis, il sera créé automatiquement. Il vous suffit d'avoir un jupyter notebook configuré ou un éditeur de code qui prend en charge les notebooks (VSCode) afin de lancer le premier notebook. une fois fait, le deuxième notebook n'a plus qu'a être lancé avec l'environnement virtuel créer automatiquement. L'application se lancera d'elle même !</sub>
 
