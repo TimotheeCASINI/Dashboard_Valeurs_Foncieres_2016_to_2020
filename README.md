@@ -185,6 +185,7 @@ Lancer le deuxième ipynb
 
 <br> 
 
+
 **Et voila ! Tout est enfin configurer pour débuter notre application**
 
 
