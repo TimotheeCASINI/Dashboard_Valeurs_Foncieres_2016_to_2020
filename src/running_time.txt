@@ -1,0 +1,560 @@
+##########  Exécution du 04/11/2021 15:43:56  ##########
+Fonction = init_app | Temps d'éxécution = 0.3009462356567383
+##########  Exécution du 04/11/2021 15:48:05  ##########
+Fonction = init_app | Temps d'éxécution = 0.2668170928955078
+##########  Exécution du 04/11/2021 15:48:29  ##########
+Fonction = init_app | Temps d'éxécution = 0.282926082611084
+##########  Exécution du 04/11/2021 15:48:41  ##########
+Fonction = init_app | Temps d'éxécution = 0.001157999038696289
+Fonction = init_df | Temps d'éxécution = 219.33336091041565
+##########  Exécution du 04/11/2021 15:52:24  ##########
+##########  Exécution du 04/11/2021 15:52:25  ##########
+Fonction = init_app | Temps d'éxécution = 0.001811981201171875
+##########  Exécution du 04/11/2021 15:52:29  ##########
+Fonction = init_app | Temps d'éxécution = 0.00150299072265625
+Fonction = init_df | Temps d'éxécution = 177.20353603363037
+Fonction = init_df | Temps d'éxécution = 177.73494005203247
+Fonction = missing_rate | Temps d'éxécution = 2.8230881690979004
+Fonction = cleaning | Temps d'éxécution = 3.615077018737793
+Fonction = pre_processing | Temps d'éxécution = 1.616170883178711
+Fonction = processing | Temps d'éxécution = 8.483283042907715
+Fonction = init_data | Temps d'éxécution = 199.74486804008484
+Fonction = init_sidebar | Temps d'éxécution = 0.004687786102294922
+Fonction = process_commune | Temps d'éxécution = 0.27621006965637207
+Fonction = process_departement | Temps d'éxécution = 0.19451117515563965
+Fonction = process_commune_square | Temps d'éxécution = 0.28039979934692383
+Fonction = process_local_region | Temps d'éxécution = 0.34255313873291016
+Fonction = init_charts | Temps d'éxécution = 4.542832851409912
+Fonction = process_commune_square | Temps d'éxécution = 0.13138389587402344
+Fonction = process_departement_square | Temps d'éxécution = 0.2530090808868408
+Fonction = process_square | Temps d'éxécution = 0.28882694244384766
+Fonction = init_square | Temps d'éxécution = 5.853285789489746
+Fonction = init_map | Temps d'éxécution = 5.507123947143555
+##########  Exécution du 04/11/2021 16:06:21  ##########
+Fonction = init_app | Temps d'éxécution = 0.31734704971313477
+##########  Exécution du 04/11/2021 16:06:23  ##########
+Fonction = init_app | Temps d'éxécution = 0.0007839202880859375
+##########  Exécution du 04/11/2021 16:07:42  ##########
+Fonction = init_app | Temps d'éxécution = 0.30035877227783203
+Fonction = init_df | Temps d'éxécution = 89.40951895713806
+Fonction = missing_rate | Temps d'éxécution = 2.0953128337860107
+Fonction = cleaning | Temps d'éxécution = 3.327697277069092
+Fonction = pre_processing | Temps d'éxécution = 1.5577459335327148
+Fonction = processing | Temps d'éxécution = 7.9166998863220215
+Fonction = init_data | Temps d'éxécution = 105.0417799949646
+Fonction = init_sidebar | Temps d'éxécution = 0.0049779415130615234
+Fonction = process_commune | Temps d'éxécution = 0.26676368713378906
+Fonction = process_departement | Temps d'éxécution = 0.18720483779907227
+Fonction = process_commune_square | Temps d'éxécution = 0.26952099800109863
+Fonction = process_local_region | Temps d'éxécution = 0.21188116073608398
+Fonction = init_charts | Temps d'éxécution = 3.811704158782959
+Fonction = process_commune_square | Temps d'éxécution = 0.08808302879333496
+Fonction = process_departement_square | Temps d'éxécution = 0.16849088668823242
+Fonction = process_square | Temps d'éxécution = 0.19788599014282227
+Fonction = init_square | Temps d'éxécution = 4.60923433303833
+Fonction = init_map | Temps d'éxécution = 4.958597898483276
+##########  Exécution du 04/11/2021 16:13:29  ##########
+Fonction = init_app | Temps d'éxécution = 0.000762939453125
+Fonction = pre_processing | Temps d'éxécution = 0.12567806243896484
+Fonction = processing | Temps d'éxécution = 8.137582063674927
+Fonction = process_commune | Temps d'éxécution = 0.10645174980163574
+Fonction = process_departement | Temps d'éxécution = 0.0929572582244873
+Fonction = process_commune_square | Temps d'éxécution = 0.1179189682006836
+Fonction = process_departement_square | Temps d'éxécution = 0.16548514366149902
+Fonction = init_data | Temps d'éxécution = 10.283528327941895
+Fonction = init_sidebar | Temps d'éxécution = 0.008501052856445312
+Fonction = process_commune | Temps d'éxécution = 0.11927103996276855
+Fonction = process_departement | Temps d'éxécution = 0.08249998092651367
+Fonction = process_commune_square | Temps d'éxécution = 0.09041786193847656
+Fonction = process_local_region | Temps d'éxécution = 0.08170008659362793
+Fonction = init_charts | Temps d'éxécution = 3.4336352348327637
+Fonction = process_commune_square | Temps d'éxécution = 0.10148215293884277
+Fonction = process_departement_square | Temps d'éxécution = 0.0926201343536377
+Fonction = process_square | Temps d'éxécution = 0.08021187782287598
+##########  Exécution du 04/11/2021 16:13:48  ##########
+Fonction = init_app | Temps d'éxécution = 0.0008349418640136719
+Fonction = processing | Temps d'éxécution = 0.19228410720825195
+Fonction = init_data | Temps d'éxécution = 0.7249889373779297
+Fonction = init_sidebar | Temps d'éxécution = 0.004479885101318359
+Fonction = process_commune | Temps d'éxécution = 0.12459778785705566
+Fonction = process_departement | Temps d'éxécution = 0.10038495063781738
+Fonction = process_commune_square | Temps d'éxécution = 0.1275949478149414
+Fonction = process_local_region | Temps d'éxécution = 0.08167386054992676
+##########  Exécution du 04/11/2021 16:13:52  ##########
+Fonction = init_app | Temps d'éxécution = 0.0006761550903320312
+Fonction = missing_rate | Temps d'éxécution = 2.5365071296691895
+Fonction = cleaning | Temps d'éxécution = 4.880223989486694
+Fonction = pre_processing | Temps d'éxécution = 2.1010308265686035
+Fonction = processing | Temps d'éxécution = 10.729193210601807
+Fonction = init_data | Temps d'éxécution = 21.563836812973022
+Fonction = init_sidebar | Temps d'éxécution = 0.004366874694824219
+Fonction = process_commune | Temps d'éxécution = 0.2624080181121826
+Fonction = process_departement | Temps d'éxécution = 0.17926812171936035
+Fonction = process_commune_square | Temps d'éxécution = 0.28093695640563965
+Fonction = process_local_region | Temps d'éxécution = 0.25196003913879395
+Fonction = init_charts | Temps d'éxécution = 3.7133071422576904
+Fonction = process_commune_square | Temps d'éxécution = 0.09863495826721191
+Fonction = process_departement_square | Temps d'éxécution = 0.18140006065368652
+Fonction = process_square | Temps d'éxécution = 0.27765393257141113
+Fonction = init_square | Temps d'éxécution = 5.3255627155303955
+Fonction = init_map | Temps d'éxécution = 6.153780937194824
+##########  Exécution du 04/11/2021 18:16:56  ##########
+Fonction = init_app | Temps d'éxécution = 0.436107873916626
+Fonction = init_df | Temps d'éxécution = 94.63251304626465
+Fonction = missing_rate | Temps d'éxécution = 2.6062934398651123
+Fonction = cleaning | Temps d'éxécution = 3.478900909423828
+Fonction = pre_processing | Temps d'éxécution = 1.6297869682312012
+Fonction = processing | Temps d'éxécution = 8.242176055908203
+Fonction = init_data | Temps d'éxécution = 111.94064211845398
+Fonction = init_sidebar | Temps d'éxécution = 0.00518488883972168
+Fonction = process_commune | Temps d'éxécution = 0.2774641513824463
+Fonction = process_departement | Temps d'éxécution = 0.1703951358795166
+Fonction = process_commune_square | Temps d'éxécution = 0.2313089370727539
+Fonction = process_local_region | Temps d'éxécution = 0.2413330078125
+Fonction = init_charts | Temps d'éxécution = 4.2206809520721436
+Fonction = process_commune_square | Temps d'éxécution = 0.09691619873046875
+Fonction = process_departement_square | Temps d'éxécution = 0.17987823486328125
+Fonction = process_square | Temps d'éxécution = 0.21299314498901367
+Fonction = init_square | Temps d'éxécution = 5.34604811668396
+Fonction = init_map | Temps d'éxécution = 5.663136959075928
+##########  Exécution du 04/11/2021 18:23:30  ##########
+Fonction = init_app | Temps d'éxécution = 0.6085460186004639
+##########  Exécution du 04/11/2021 18:23:31  ##########
+Fonction = init_app | Temps d'éxécution = 0.002374887466430664
+Fonction = init_df | Temps d'éxécution = 152.0409390926361
+Fonction = init_df | Temps d'éxécution = 153.29972386360168
+Fonction = missing_rate | Temps d'éxécution = 2.466840982437134
+Fonction = cleaning | Temps d'éxécution = 3.692556858062744
+Fonction = pre_processing | Temps d'éxécution = 1.6119961738586426
+Fonction = processing | Temps d'éxécution = 8.213996171951294
+Fonction = init_data | Temps d'éxécution = 170.63073921203613
+Fonction = init_sidebar | Temps d'éxécution = 0.005789995193481445
+Fonction = process_commune | Temps d'éxécution = 0.290255069732666
+Fonction = process_departement | Temps d'éxécution = 0.19552087783813477
+Fonction = process_commune_square | Temps d'éxécution = 0.2807140350341797
+Fonction = process_local_region | Temps d'éxécution = 0.26676106452941895
+Fonction = init_charts | Temps d'éxécution = 4.014642953872681
+Fonction = process_commune_square | Temps d'éxécution = 0.1034398078918457
+Fonction = process_departement_square | Temps d'éxécution = 0.21605873107910156
+Fonction = process_square | Temps d'éxécution = 0.2340869903564453
+Fonction = init_square | Temps d'éxécution = 5.407093048095703
+Fonction = init_map | Temps d'éxécution = 5.833508014678955
+##########  Exécution du 04/11/2021 18:26:44  ##########
+Fonction = init_app | Temps d'éxécution = 0.002516031265258789
+Fonction = pre_processing | Temps d'éxécution = 0.1086740493774414
+Fonction = processing | Temps d'éxécution = 11.863022089004517
+Fonction = init_data | Temps d'éxécution = 14.722512245178223
+Fonction = init_sidebar | Temps d'éxécution = 0.004593849182128906
+Fonction = process_commune | Temps d'éxécution = 0.11650776863098145
+Fonction = process_departement | Temps d'éxécution = 0.10353684425354004
+Fonction = process_commune_square | Temps d'éxécution = 0.10718989372253418
+Fonction = process_local_region | Temps d'éxécution = 0.09443783760070801
+Fonction = init_charts | Temps d'éxécution = 3.81748104095459
+Fonction = process_commune_square | Temps d'éxécution = 0.0997779369354248
+Fonction = process_departement_square | Temps d'éxécution = 0.08840298652648926
+Fonction = process_square | Temps d'éxécution = 0.08645486831665039
+Fonction = init_square | Temps d'éxécution = 5.012022018432617
+Fonction = init_map | Temps d'éxécution = 5.581838130950928
+##########  Exécution du 04/11/2021 18:27:21  ##########
+Fonction = init_app | Temps d'éxécution = 0.0008149147033691406
+Fonction = missing_rate | Temps d'éxécution = 3.057197093963623
+Fonction = cleaning | Temps d'éxécution = 4.669778108596802
+Fonction = pre_processing | Temps d'éxécution = 2.8028550148010254
+Fonction = processing | Temps d'éxécution = 12.415605068206787
+Fonction = init_data | Temps d'éxécution = 25.32850408554077
+Fonction = init_sidebar | Temps d'éxécution = 0.009773969650268555
+Fonction = process_commune | Temps d'éxécution = 0.6103389263153076
+Fonction = process_departement | Temps d'éxécution = 0.5448057651519775
+Fonction = process_commune_square | Temps d'éxécution = 0.5795180797576904
+Fonction = process_local_region | Temps d'éxécution = 0.2897622585296631
+Fonction = init_charts | Temps d'éxécution = 6.499236106872559
+Fonction = process_commune_square | Temps d'éxécution = 0.1270458698272705
+Fonction = process_departement_square | Temps d'éxécution = 0.21076726913452148
+Fonction = process_square | Temps d'éxécution = 0.3098177909851074
+Fonction = init_square | Temps d'éxécution = 5.9119110107421875
+##########  Exécution du 04/11/2021 18:28:05  ##########
+Fonction = init_app | Temps d'éxécution = 0.0007491111755371094
+Fonction = pre_processing | Temps d'éxécution = 0.10952091217041016
+Fonction = processing | Temps d'éxécution = 9.304686069488525
+Fonction = init_data | Temps d'éxécution = 9.995565176010132
+Fonction = init_sidebar | Temps d'éxécution = 0.06473278999328613
+Fonction = process_commune | Temps d'éxécution = 0.10097694396972656
+Fonction = process_departement | Temps d'éxécution = 0.06687211990356445
+Fonction = process_commune_square | Temps d'éxécution = 0.10402107238769531
+Fonction = process_month | Temps d'éxécution = 0.05594301223754883
+Fonction = process_local_region | Temps d'éxécution = 0.08081793785095215
+Fonction = init_charts | Temps d'éxécution = 3.364832878112793
+Fonction = process_commune_square | Temps d'éxécution = 0.06426596641540527
+Fonction = process_departement_square | Temps d'éxécution = 0.06723928451538086
+Fonction = process_square | Temps d'éxécution = 0.08665704727172852
+Fonction = init_square | Temps d'éxécution = 3.0669760704040527
+Fonction = init_map | Temps d'éxécution = 1.4033479690551758
+##########  Exécution du 04/11/2021 18:28:33  ##########
+Fonction = init_app | Temps d'éxécution = 0.0010018348693847656
+Fonction = processing | Temps d'éxécution = 0.1944141387939453
+Fonction = init_data | Temps d'éxécution = 0.844001054763794
+Fonction = init_sidebar | Temps d'éxécution = 0.05091118812561035
+Fonction = process_commune | Temps d'éxécution = 0.23343992233276367
+Fonction = process_departement | Temps d'éxécution = 0.19818902015686035
+Fonction = process_commune_square | Temps d'éxécution = 0.21286892890930176
+Fonction = process_month | Temps d'éxécution = 0.16380906105041504
+Fonction = process_local_region | Temps d'éxécution = 0.1736738681793213
+Fonction = init_charts | Temps d'éxécution = 3.7135860919952393
+Fonction = process_commune_square | Temps d'éxécution = 0.169295072555542
+Fonction = process_departement_square | Temps d'éxécution = 0.17173290252685547
+Fonction = process_square | Temps d'éxécution = 0.164902925491333
+Fonction = init_square | Temps d'éxécution = 2.7585389614105225
+Fonction = init_map | Temps d'éxécution = 1.0619571208953857
+##########  Exécution du 04/11/2021 18:28:46  ##########
+Fonction = init_app | Temps d'éxécution = 0.0009768009185791016
+Fonction = processing | Temps d'éxécution = 0.2328929901123047
+Fonction = init_data | Temps d'éxécution = 0.849280834197998
+Fonction = init_sidebar | Temps d'éxécution = 0.05515885353088379
+Fonction = process_commune | Temps d'éxécution = 0.030148029327392578
+Fonction = process_departement | Temps d'éxécution = 0.026918888092041016
+Fonction = process_commune_square | Temps d'éxécution = 0.029639005661010742
+Fonction = process_month | Temps d'éxécution = 0.022343158721923828
+Fonction = process_region | Temps d'éxécution = 0.02592325210571289
+Fonction = process_local | Temps d'éxécution = 0.019485950469970703
+Fonction = init_charts | Temps d'éxécution = 3.2151997089385986
+Fonction = process_commune_square | Temps d'éxécution = 0.023431777954101562
+Fonction = process_departement_square | Temps d'éxécution = 0.02340102195739746
+Fonction = process_square | Temps d'éxécution = 0.01827263832092285
+Fonction = process_commune_departement_square | Temps d'éxécution = 0.021053075790405273
+Fonction = init_square | Temps d'éxécution = 2.6930091381073
+Fonction = init_map | Temps d'éxécution = 0.7975242137908936
+##########  Exécution du 04/11/2021 18:28:56  ##########
+Fonction = init_app | Temps d'éxécution = 0.0008668899536132812
+Fonction = processing | Temps d'éxécution = 0.2511172294616699
+Fonction = init_data | Temps d'éxécution = 0.8944320678710938
+Fonction = init_sidebar | Temps d'éxécution = 0.09302496910095215
+Fonction = process_commune | Temps d'éxécution = 0.08124375343322754
+Fonction = process_departement | Temps d'éxécution = 0.07056689262390137
+Fonction = process_commune_square | Temps d'éxécution = 0.07292008399963379
+Fonction = process_region | Temps d'éxécution = 0.07095813751220703
+Fonction = process_local | Temps d'éxécution = 0.08630776405334473
+Fonction = init_charts | Temps d'éxécution = 3.2713160514831543
+Fonction = process_commune_square | Temps d'éxécution = 0.04723811149597168
+Fonction = process_departement_square | Temps d'éxécution = 0.06527996063232422
+Fonction = process_square | Temps d'éxécution = 0.07014584541320801
+Fonction = process_commune_departement_square | Temps d'éxécution = 0.0899651050567627
+Fonction = init_square | Temps d'éxécution = 3.1733522415161133
+Fonction = init_map | Temps d'éxécution = 1.4552466869354248
+##########  Exécution du 04/11/2021 18:29:16  ##########
+Fonction = init_app | Temps d'éxécution = 0.0009572505950927734
+Fonction = processing | Temps d'éxécution = 0.2534658908843994
+Fonction = init_data | Temps d'éxécution = 1.009045124053955
+Fonction = init_sidebar | Temps d'éxécution = 0.18046998977661133
+Fonction = process_commune | Temps d'éxécution = 0.12886786460876465
+Fonction = process_departement | Temps d'éxécution = 0.09816908836364746
+Fonction = process_commune_square | Temps d'éxécution = 0.13194489479064941
+Fonction = process_region | Temps d'éxécution = 0.09580492973327637
+Fonction = process_local_region | Temps d'éxécution = 0.10741782188415527
+##########  Exécution du 04/11/2021 18:29:21  ##########
+Fonction = init_app | Temps d'éxécution = 0.0015490055084228516
+Fonction = processing | Temps d'éxécution = 0.22561383247375488
+Fonction = init_data | Temps d'éxécution = 0.8712589740753174
+Fonction = init_sidebar | Temps d'éxécution = 0.1817789077758789
+Fonction = process_commune | Temps d'éxécution = 0.1391749382019043
+Fonction = process_departement | Temps d'éxécution = 0.1143190860748291
+Fonction = process_commune_square | Temps d'éxécution = 0.12923479080200195
+##########  Exécution du 04/11/2021 18:29:23  ##########
+Fonction = init_app | Temps d'éxécution = 0.0008401870727539062
+Fonction = processing | Temps d'éxécution = 0.2612442970275879
+Fonction = init_data | Temps d'éxécution = 0.9284868240356445
+Fonction = init_sidebar | Temps d'éxécution = 0.20089507102966309
+##########  Exécution du 04/11/2021 18:29:25  ##########
+Fonction = init_app | Temps d'éxécution = 0.001093149185180664
+Fonction = processing | Temps d'éxécution = 0.22209715843200684
+Fonction = init_data | Temps d'éxécution = 0.9128501415252686
+Fonction = init_sidebar | Temps d'éxécution = 0.23397517204284668
+Fonction = process_commune | Temps d'éxécution = 0.15466594696044922
+##########  Exécution du 04/11/2021 18:29:27  ##########
+Fonction = init_app | Temps d'éxécution = 0.0016188621520996094
+Fonction = processing | Temps d'éxécution = 0.22605276107788086
+Fonction = init_data | Temps d'éxécution = 0.9123499393463135
+Fonction = init_sidebar | Temps d'éxécution = 0.2615816593170166
+##########  Exécution du 04/11/2021 18:29:28  ##########
+Fonction = init_app | Temps d'éxécution = 0.0023298263549804688
+Fonction = processing | Temps d'éxécution = 0.24059605598449707
+Fonction = init_data | Temps d'éxécution = 0.9159059524536133
+Fonction = init_sidebar | Temps d'éxécution = 0.2846388816833496
+##########  Exécution du 04/11/2021 18:29:30  ##########
+Fonction = init_app | Temps d'éxécution = 0.0008080005645751953
+Fonction = processing | Temps d'éxécution = 0.244520902633667
+Fonction = init_data | Temps d'éxécution = 0.9279851913452148
+Fonction = init_sidebar | Temps d'éxécution = 0.31854724884033203
+##########  Exécution du 04/11/2021 18:29:32  ##########
+Fonction = init_app | Temps d'éxécution = 0.0011219978332519531
+Fonction = processing | Temps d'éxécution = 0.2337028980255127
+Fonction = init_data | Temps d'éxécution = 0.9119901657104492
+##########  Exécution du 04/11/2021 18:29:33  ##########
+Fonction = init_app | Temps d'éxécution = 0.001338958740234375
+Fonction = processing | Temps d'éxécution = 0.25933122634887695
+Fonction = init_data | Temps d'éxécution = 0.9534330368041992
+##########  Exécution du 04/11/2021 18:29:34  ##########
+Fonction = init_app | Temps d'éxécution = 0.001203298568725586
+Fonction = processing | Temps d'éxécution = 0.22837018966674805
+Fonction = init_data | Temps d'éxécution = 0.9027597904205322
+Fonction = init_sidebar | Temps d'éxécution = 0.46716904640197754
+##########  Exécution du 04/11/2021 18:29:36  ##########
+Fonction = init_app | Temps d'éxécution = 0.0011050701141357422
+Fonction = processing | Temps d'éxécution = 0.2019062042236328
+Fonction = init_data | Temps d'éxécution = 0.8566930294036865
+Fonction = init_sidebar | Temps d'éxécution = 0.4979579448699951
+Fonction = process_commune | Temps d'éxécution = 0.3425741195678711
+Fonction = process_departement | Temps d'éxécution = 0.21764612197875977
+Fonction = process_commune_square | Temps d'éxécution = 0.33173394203186035
+Fonction = process_region | Temps d'éxécution = 0.3177320957183838
+Fonction = process_local_region | Temps d'éxécution = 0.3120391368865967
+Fonction = init_charts | Temps d'éxécution = 5.4604432582855225
+Fonction = process_commune_square | Temps d'éxécution = 0.19235777854919434
+Fonction = process_departement_square | Temps d'éxécution = 0.28452491760253906
+Fonction = process_square | Temps d'éxécution = 0.2874889373779297
+Fonction = process_commune_departement_square | Temps d'éxécution = 0.43561697006225586
+Fonction = init_square | Temps d'éxécution = 7.641286849975586
+Fonction = init_map | Temps d'éxécution = 7.287597179412842
+##########  Exécution du 04/11/2021 18:30:09  ##########
+Fonction = init_app | Temps d'éxécution = 0.0009829998016357422
+##########  Exécution du 04/11/2021 18:30:10  ##########
+Fonction = init_app | Temps d'éxécution = 0.0012600421905517578
+Fonction = processing | Temps d'éxécution = 0.26195526123046875
+Fonction = init_data | Temps d'éxécution = 1.004744052886963
+##########  Exécution du 04/11/2021 18:30:12  ##########
+Fonction = init_app | Temps d'éxécution = 0.0009489059448242188
+Fonction = processing | Temps d'éxécution = 0.22229719161987305
+Fonction = init_data | Temps d'éxécution = 1.0011210441589355
+Fonction = init_sidebar | Temps d'éxécution = 0.34972190856933594
+Fonction = process_commune | Temps d'éxécution = 0.2374420166015625
+Fonction = process_departement | Temps d'éxécution = 0.17724394798278809
+Fonction = process_commune_square | Temps d'éxécution = 0.21052908897399902
+Fonction = process_region | Temps d'éxécution = 0.2039637565612793
+Fonction = process_local_region | Temps d'éxécution = 0.18395495414733887
+Fonction = init_charts | Temps d'éxécution = 4.967536926269531
+Fonction = process_commune_square | Temps d'éxécution = 0.08439207077026367
+Fonction = process_departement_square | Temps d'éxécution = 0.1479170322418213
+Fonction = process_square | Temps d'éxécution = 0.1999223232269287
+Fonction = process_commune_departement_square | Temps d'éxécution = 0.29746365547180176
+Fonction = init_square | Temps d'éxécution = 5.6509480476379395
+##########  Exécution du 04/11/2021 18:30:29  ##########
+Fonction = init_app | Temps d'éxécution = 0.0007376670837402344
+Fonction = processing | Temps d'éxécution = 0.2118678092956543
+Fonction = init_data | Temps d'éxécution = 0.8461699485778809
+Fonction = init_sidebar | Temps d'éxécution = 0.270050048828125
+##########  Exécution du 04/11/2021 18:30:31  ##########
+Fonction = init_app | Temps d'éxécution = 0.0013799667358398438
+Fonction = processing | Temps d'éxécution = 0.2536931037902832
+Fonction = init_data | Temps d'éxécution = 0.9365198612213135
+Fonction = init_sidebar | Temps d'éxécution = 0.3002452850341797
+##########  Exécution du 04/11/2021 18:30:32  ##########
+Fonction = init_app | Temps d'éxécution = 0.0010979175567626953
+Fonction = processing | Temps d'éxécution = 0.286268949508667
+Fonction = init_data | Temps d'éxécution = 1.113152027130127
+Fonction = init_sidebar | Temps d'éxécution = 0.258760929107666
+Fonction = process_commune | Temps d'éxécution = 0.19150710105895996
+Fonction = process_departement | Temps d'éxécution = 0.1352980136871338
+Fonction = process_commune_square | Temps d'éxécution = 0.17577695846557617
+Fonction = process_region | Temps d'éxécution = 0.15381908416748047
+Fonction = process_local_region | Temps d'éxécution = 0.17240595817565918
+Fonction = init_charts | Temps d'éxécution = 5.288786888122559
+Fonction = process_commune_square | Temps d'éxécution = 0.09902262687683105
+Fonction = process_departement_square | Temps d'éxécution = 0.11989092826843262
+Fonction = process_square | Temps d'éxécution = 0.17397093772888184
+Fonction = process_commune_departement_square | Temps d'éxécution = 0.21885180473327637
+Fonction = init_square | Temps d'éxécution = 5.158149242401123
+Fonction = init_map | Temps d'éxécution = 3.4179108142852783
+##########  Exécution du 04/11/2021 18:30:50  ##########
+Fonction = init_app | Temps d'éxécution = 0.0010380744934082031
+##########  Exécution du 04/11/2021 18:30:51  ##########
+Fonction = init_app | Temps d'éxécution = 0.0009579658508300781
+Fonction = processing | Temps d'éxécution = 0.26906299591064453
+Fonction = init_data | Temps d'éxécution = 1.1542370319366455
+Fonction = init_sidebar | Temps d'éxécution = 0.1331019401550293
+##########  Exécution du 04/11/2021 18:30:53  ##########
+Fonction = init_app | Temps d'éxécution = 0.0016202926635742188
+Fonction = processing | Temps d'éxécution = 0.2744300365447998
+Fonction = init_data | Temps d'éxécution = 0.9564440250396729
+Fonction = init_sidebar | Temps d'éxécution = 0.09561586380004883
+Fonction = process_commune | Temps d'éxécution = 0.27362513542175293
+Fonction = process_departement | Temps d'éxécution = 0.25631189346313477
+Fonction = process_commune_square | Temps d'éxécution = 0.2642250061035156
+Fonction = process_region | Temps d'éxécution = 0.25637197494506836
+Fonction = process_local_region | Temps d'éxécution = 0.2587120532989502
+Fonction = init_charts | Temps d'éxécution = 4.347758054733276
+Fonction = process_commune_square | Temps d'éxécution = 0.2652573585510254
+Fonction = process_departement_square | Temps d'éxécution = 0.25102901458740234
+Fonction = process_square | Temps d'éxécution = 0.25569629669189453
+Fonction = process_commune_departement_square | Temps d'éxécution = 0.2747929096221924
+Fonction = init_square | Temps d'éxécution = 4.158804893493652
+Fonction = init_map | Temps d'éxécution = 1.2425777912139893
+##########  Exécution du 04/11/2021 18:31:47  ##########
+Fonction = init_app | Temps d'éxécution = 0.3461339473724365
+##########  Exécution du 04/11/2021 18:31:50  ##########
+Fonction = init_app | Temps d'éxécution = 0.001275777816772461
+##########  Exécution du 04/11/2021 18:31:50  ##########
+Fonction = init_app | Temps d'éxécution = 0.001219034194946289
+##########  Exécution du 04/11/2021 18:33:56  ##########
+Fonction = init_app | Temps d'éxécution = 0.006868839263916016
+Fonction = init_df | Temps d'éxécution = 267.9026870727539
+Fonction = init_df | Temps d'éxécution = 272.3830518722534
+Fonction = init_df | Temps d'éxécution = 281.26853132247925
+##########  Exécution du 04/11/2021 18:37:04  ##########
+Fonction = init_app | Temps d'éxécution = 0.0017271041870117188
+Fonction = missing_rate | Temps d'éxécution = 2.9557979106903076
+Fonction = cleaning | Temps d'éxécution = 7.007089138031006
+Fonction = pre_processing | Temps d'éxécution = 2.851686954498291
+##########  Exécution du 04/11/2021 18:37:31  ##########
+Fonction = init_app | Temps d'éxécution = 0.0013761520385742188
+Fonction = pre_processing | Temps d'éxécution = 0.11661887168884277
+##########  Exécution du 04/11/2021 18:38:01  ##########
+Fonction = init_app | Temps d'éxécution = 0.29825305938720703
+Fonction = init_df | Temps d'éxécution = 83.44307804107666
+Fonction = missing_rate | Temps d'éxécution = 2.61586594581604
+Fonction = cleaning | Temps d'éxécution = 3.962275981903076
+Fonction = pre_processing | Temps d'éxécution = 1.639617919921875
+Fonction = processing | Temps d'éxécution = 8.1320641040802
+Fonction = init_data | Temps d'éxécution = 100.87419700622559
+Fonction = init_sidebar | Temps d'éxécution = 0.004690885543823242
+Fonction = process_commune | Temps d'éxécution = 0.3047759532928467
+Fonction = process_departement | Temps d'éxécution = 0.21034908294677734
+Fonction = process_commune_square | Temps d'éxécution = 0.26963090896606445
+Fonction = process_local_region | Temps d'éxécution = 0.22707819938659668
+Fonction = init_charts | Temps d'éxécution = 4.288431167602539
+Fonction = process_commune_square | Temps d'éxécution = 0.12315869331359863
+Fonction = process_departement_square | Temps d'éxécution = 0.20945096015930176
+Fonction = process_square | Temps d'éxécution = 0.23825597763061523
+Fonction = init_square | Temps d'éxécution = 4.946131944656372
+Fonction = init_map | Temps d'éxécution = 5.428774833679199
+##########  Exécution du 04/11/2021 18:40:06  ##########
+Fonction = init_app | Temps d'éxécution = 0.0009579658508300781
+Fonction = pre_processing | Temps d'éxécution = 0.12222790718078613
+Fonction = processing | Temps d'éxécution = 8.722633123397827
+Fonction = process_commune | Temps d'éxécution = 0.0994720458984375
+Fonction = process_departement | Temps d'éxécution = 0.12193584442138672
+Fonction = process_commune_square | Temps d'éxécution = 0.14838314056396484
+Fonction = process_departement_square | Temps d'éxécution = 0.10883808135986328
+Fonction = init_data | Temps d'éxécution = 10.87421989440918
+Fonction = init_sidebar | Temps d'éxécution = 0.009259939193725586
+Fonction = process_commune | Temps d'éxécution = 0.17597126960754395
+Fonction = process_departement | Temps d'éxécution = 0.10987687110900879
+Fonction = process_commune_square | Temps d'éxécution = 0.11083698272705078
+Fonction = process_local_region | Temps d'éxécution = 0.10337519645690918
+Fonction = init_charts | Temps d'éxécution = 4.228478908538818
+Fonction = process_commune_square | Temps d'éxécution = 0.12357187271118164
+Fonction = process_departement_square | Temps d'éxécution = 0.10676789283752441
+Fonction = process_square | Temps d'éxécution = 0.08090019226074219
+##########  Exécution du 04/11/2021 18:40:27  ##########
+Fonction = init_app | Temps d'éxécution = 0.0015330314636230469
+Fonction = processing | Temps d'éxécution = 0.19138193130493164
+Fonction = init_data | Temps d'éxécution = 0.7554299831390381
+Fonction = init_sidebar | Temps d'éxécution = 0.0052568912506103516
+Fonction = process_commune | Temps d'éxécution = 0.12303304672241211
+Fonction = process_departement | Temps d'éxécution = 0.09064674377441406
+Fonction = process_commune_square | Temps d'éxécution = 0.11701297760009766
+Fonction = process_local_region | Temps d'éxécution = 0.09269976615905762
+Fonction = init_charts | Temps d'éxécution = 3.7589900493621826
+Fonction = process_commune_square | Temps d'éxécution = 0.0992429256439209
+Fonction = process_departement_square | Temps d'éxécution = 0.08727502822875977
+Fonction = process_square | Temps d'éxécution = 0.10870194435119629
+Fonction = init_square | Temps d'éxécution = 5.194026947021484
+Fonction = init_map | Temps d'éxécution = 5.864521026611328
+##########  Exécution du 04/11/2021 18:40:54  ##########
+Fonction = init_app | Temps d'éxécution = 0.001007080078125
+Fonction = missing_rate | Temps d'éxécution = 2.774972915649414
+Fonction = cleaning | Temps d'éxécution = 4.307015895843506
+Fonction = pre_processing | Temps d'éxécution = 1.8945262432098389
+Fonction = processing | Temps d'éxécution = 9.686115026473999
+Fonction = init_data | Temps d'éxécution = 19.822160243988037
+Fonction = init_sidebar | Temps d'éxécution = 0.0046536922454833984
+Fonction = process_commune | Temps d'éxécution = 0.30264711380004883
+Fonction = process_departement | Temps d'éxécution = 0.20964288711547852
+Fonction = process_commune_square | Temps d'éxécution = 0.3232409954071045
+Fonction = process_local_region | Temps d'éxécution = 0.29526710510253906
+Fonction = init_charts | Temps d'éxécution = 4.404456853866577
+Fonction = process_commune_square | Temps d'éxécution = 0.12644219398498535
+Fonction = process_departement_square | Temps d'éxécution = 0.21317005157470703
+Fonction = process_square | Temps d'éxécution = 0.3256809711456299
+Fonction = init_square | Temps d'éxécution = 6.178300857543945
+Fonction = init_map | Temps d'éxécution = 6.153309345245361
+##########  Exécution du 04/11/2021 18:41:40  ##########
+Fonction = init_app | Temps d'éxécution = 0.0008831024169921875
+Fonction = pre_processing | Temps d'éxécution = 0.13393306732177734
+Fonction = processing | Temps d'éxécution = 10.059521675109863
+Fonction = process_commune | Temps d'éxécution = 0.1067500114440918
+Fonction = process_departement | Temps d'éxécution = 0.08505702018737793
+Fonction = process_commune_square | Temps d'éxécution = 0.10115981101989746
+Fonction = process_departement_square | Temps d'éxécution = 0.08761024475097656
+Fonction = init_data | Temps d'éxécution = 12.166223287582397
+Fonction = init_sidebar | Temps d'éxécution = 0.005658864974975586
+Fonction = process_commune | Temps d'éxécution = 0.10431909561157227
+Fonction = process_departement | Temps d'éxécution = 0.08913087844848633
+Fonction = process_commune_square | Temps d'éxécution = 0.11188101768493652
+Fonction = process_local_region | Temps d'éxécution = 0.09054899215698242
+Fonction = init_charts | Temps d'éxécution = 3.501093864440918
+Fonction = process_commune_square | Temps d'éxécution = 0.11901116371154785
+Fonction = process_departement_square | Temps d'éxécution = 0.0952610969543457
+Fonction = process_square | Temps d'éxécution = 0.09380292892456055
+##########  Exécution du 04/11/2021 18:42:02  ##########
+Fonction = init_app | Temps d'éxécution = 0.0012140274047851562
+Fonction = processing | Temps d'éxécution = 0.2070770263671875
+Fonction = init_data | Temps d'éxécution = 0.9008309841156006
+Fonction = init_sidebar | Temps d'éxécution = 0.006201982498168945
+Fonction = process_commune | Temps d'éxécution = 0.13004493713378906
+Fonction = process_departement | Temps d'éxécution = 0.0959939956665039
+Fonction = process_commune_square | Temps d'éxécution = 0.12142229080200195
+Fonction = process_local_region | Temps d'éxécution = 0.11400818824768066
+Fonction = init_charts | Temps d'éxécution = 4.087172031402588
+Fonction = process_commune_square | Temps d'éxécution = 0.16512203216552734
+Fonction = process_departement_square | Temps d'éxécution = 0.14138221740722656
+Fonction = process_square | Temps d'éxécution = 0.08743095397949219
+Fonction = init_square | Temps d'éxécution = 5.454924821853638
+Fonction = init_map | Temps d'éxécution = 6.786385774612427
+##########  Exécution du 04/11/2021 18:42:35  ##########
+Fonction = init_app | Temps d'éxécution = 0.0007319450378417969
+Fonction = processing | Temps d'éxécution = 0.18710684776306152
+Fonction = process_commune | Temps d'éxécution = 0.10691404342651367
+Fonction = process_departement | Temps d'éxécution = 0.09476304054260254
+Fonction = process_commune_square | Temps d'éxécution = 0.14744019508361816
+Fonction = process_departement_square | Temps d'éxécution = 0.11782288551330566
+Fonction = init_data | Temps d'éxécution = 2.268404006958008
+Fonction = init_sidebar | Temps d'éxécution = 0.006680011749267578
+Fonction = process_commune | Temps d'éxécution = 0.13251900672912598
+Fonction = process_departement | Temps d'éxécution = 0.11097383499145508
+Fonction = process_commune_square | Temps d'éxécution = 0.14878487586975098
+Fonction = process_local_region | Temps d'éxécution = 0.09147500991821289
+Fonction = init_charts | Temps d'éxécution = 3.799631118774414
+Fonction = process_commune_square | Temps d'éxécution = 0.1283109188079834
+Fonction = process_departement_square | Temps d'éxécution = 0.08988380432128906
+Fonction = process_square | Temps d'éxécution = 0.10359311103820801
+Fonction = init_square | Temps d'éxécution = 5.877670049667358
+Fonction = init_map | Temps d'éxécution = 6.456295967102051
+##########  Exécution du 04/11/2021 18:43:00  ##########
+Fonction = init_app | Temps d'éxécution = 0.0007963180541992188
+Fonction = processing | Temps d'éxécution = 0.20415711402893066
+Fonction = init_data | Temps d'éxécution = 0.7579398155212402
+Fonction = init_sidebar | Temps d'éxécution = 0.00470280647277832
+Fonction = process_commune | Temps d'éxécution = 0.11556196212768555
+Fonction = process_departement | Temps d'éxécution = 0.08832311630249023
+Fonction = process_commune_square | Temps d'éxécution = 0.10525298118591309
+Fonction = process_local_region | Temps d'éxécution = 0.09290385246276855
+Fonction = init_charts | Temps d'éxécution = 3.5323169231414795
+Fonction = process_commune_square | Temps d'éxécution = 0.1010749340057373
+Fonction = process_departement_square | Temps d'éxécution = 0.07117104530334473
+Fonction = process_square | Temps d'éxécution = 0.07431912422180176
+Fonction = init_square | Temps d'éxécution = 5.296617031097412
+Fonction = init_map | Temps d'éxécution = 6.286437749862671
+##########  Exécution du 04/11/2021 18:43:31  ##########
+Fonction = init_app | Temps d'éxécution = 0.0015742778778076172
+Fonction = processing | Temps d'éxécution = 0.20377707481384277
+Fonction = init_data | Temps d'éxécution = 0.9109508991241455
+Fonction = init_sidebar | Temps d'éxécution = 0.005074977874755859
+Fonction = process_commune | Temps d'éxécution = 0.1317272186279297
+Fonction = process_departement | Temps d'éxécution = 0.08898210525512695
+Fonction = process_commune_square | Temps d'éxécution = 0.10060524940490723
+Fonction = process_local_region | Temps d'éxécution = 0.07685112953186035
+Fonction = init_charts | Temps d'éxécution = 3.6473770141601562
+Fonction = process_commune_square | Temps d'éxécution = 0.09670090675354004
+Fonction = process_departement_square | Temps d'éxécution = 0.08342123031616211
+Fonction = process_square | Temps d'éxécution = 0.07878589630126953
+Fonction = init_square | Temps d'éxécution = 5.5334179401397705
+Fonction = init_map | Temps d'éxécution = 5.950380086898804
