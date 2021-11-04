@@ -95,5 +95,6 @@ Vous aurez besoin des outils suivants :
 * Installation de python
 
 Pour verifier l'installation de python : `python --version`
-Si python n'est pas reconnue, veuillez suivre les instruction [ici (Window)](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013) ou [ici (MacOS)](https://docs.python.org/fr/3/using/mac.html)
+
+<sub>Si python n'est pas reconnue, veuillez suivre les instruction [ici (Window)](https://medium.com/co-learning-lounge/how-to-download-install-python-on-windows-2021-44a707994013) ou [ici (MacOS)](https://docs.python.org/fr/3/using/mac.html)</sub>
 
